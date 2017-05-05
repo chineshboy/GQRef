@@ -1,0 +1,92 @@
+graph g {
+	/*rankdir = BT*/
+	size="8,5"
+	fontname = "Arial"
+	margin=0.0002
+
+	edge [
+		fontname = "Arial"
+	]
+
+	node [
+		shape = rectangle, 
+		fontname = "Arial"
+		fontsize = 15,
+		width = 1.15,
+		height = 0.58,
+		style = "rounded,filled",
+		fillcolor = white
+	];
+	/* Query and reformualtions */        	subgraph cluster_q {
+		label = "Q";
+		/* Node definition */
+		"00" [label="2"]
+		"01" [label="2"]
+		"02" [label="2"]
+		/* Edge definition */
+		"00" -- "01" [label="2"]
+		"00" -- "02" [label="2"]
+	}
+
+	subgraph cluster_1 {
+		label = "R1";
+		/* Node definition */
+		"10" [label="2"]
+		"11" [label="2"]
+		"12" [label="2"]
+		"13" [label="2"]
+		/* Edge definition */
+		"10" -- "11" [label="2"]
+		"10" -- "12" [label="2"]
+		"11" -- "13" [label="1"]
+	}
+
+	subgraph cluster_2 {
+		label = "R2";
+		/* Node definition */
+		"20" [label="2"]
+		"21" [label="2"]
+		"22" [label="2"]
+		"23" [label="16"]
+		/* Edge definition */
+		"20" -- "21" [label="2"]
+		"20" -- "22" [label="2"]
+		"20" -- "23" [label="2"]
+	}
+
+	subgraph cluster_3 {
+		label = "R3";
+		/* Node definition */
+		"30" [label="2"]
+		"31" [label="2"]
+		"32" [label="2"]
+		"33" [label="7"]
+		/* Edge definition */
+		"30" -- "31" [label="2"]
+		"30" -- "32" [label="2"]
+		"32" -- "33" [label="2"]
+	}
+
+	subgraph cluster_4 {
+		label = "R4";
+		/* Node definition */
+		"40" [label="2"]
+		"41" [label="2"]
+		"42" [label="2"]
+		/* Edge definition */
+		"40" -- "41" [label="2"]
+		"40" -- "42" [label="2"]
+		"42" -- "41" [label="2"]
+	}
+
+	subgraph cluster_5 {
+		label = "R5";
+		/* Node definition */
+		"50" [label="2"]
+		"51" [label="2"]
+		"52" [label="2"]
+		/* Edge definition */
+		"50" -- "51" [label="2"]
+		"50" -- "52" [label="2"]
+		"52" -- "51" [label="1"]
+	}}

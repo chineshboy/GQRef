@@ -1,0 +1,677 @@
+0	Moti Mahal
+1	Village
+2	Millrose Brewing Company
+3	Dover Straits
+4	Eat Your Hearts Out
+5	Pizzeria Uno & Due
+6	Trattoria Franco
+7	Little Bucharest
+8	Pattaya
+9	House of Hunan
+10	Morton's of Chicago
+11	Jezebel
+12	Capri
+13	Don Roth's
+14	Tucci Benucch
+15	Rim Klong
+16	Four Farthings Tavern & Grill
+17	Skip's Other Place
+18	Papa Milano
+19	Gladys Luncheonette
+20	Harry's Velvet Room
+21	Jaxx
+22	Bangkok Star
+23	Cafe
+24	Timbers Charhouse
+25	El Jardin
+26	Signature Room at the 95th
+27	DINING ROOM
+28	Hamburger Hamlet
+29	Petros Dianna's
+30	Waterfront
+31	Walter's
+32	Thai Touch
+33	Silk Mandarin
+34	Mambo Grill
+35	L'Olive
+36	Sukumvit Cafe
+37	Little Spain
+38	Shaw's Deerfield
+39	Sylviano's
+40	Rico's
+41	Kennessey's Cypress
+42	Jia's
+43	Jilly's Cafe
+44	Sarkis Grill
+45	Shilla
+46	I Tre Merli
+47	Dionne's
+48	Ristorante Italia
+49	P.J. Clarke's
+50	Houston's
+51	Star of Siam
+52	BISTRO 110
+53	Bones
+54	Goose Island Brewing Co.
+55	Kanval Palace
+56	Avanti Populo
+57	Bella Vista
+58	Mirabell
+59	Ha Mien
+60	Planet Hollywood
+61	Mity Nice Grill
+62	Yvette Wintergarden
+63	ARUN'S
+64	Original A-1 Border Beanery
+65	Half Shell
+66	Thai Classic
+67	Red Apple
+68	Edwardo's Natural Pizza
+69	Toulouse on the Park
+70	Old Barn
+71	Happi Sushi
+72	Villa Fiori
+73	Shish Kabab House
+74	Tre Kronor
+75	Johnny Rockets
+76	Public Landing
+77	Charlie Beinlich's
+78	Lou Mitchell's
+79	Finkl's World Famous Deli
+80	El Tipico
+81	Strega Nona
+82	Neon Greek Village
+83	Mareva's
+84	Topo Gigio at the Park
+85	Daily Bar & Grill
+86	Chicago Chop House
+87	Russian Tea Time
+88	Bacchanalia
+89	Intimate China
+90	Prairie
+91	Binyon's
+92	Los Magueyes
+93	Uncle Julio's Hacienda
+94	Clark Street Bistro
+95	Bacino's
+96	Heidelberger Fass
+97	Chicago Pizza & Oven Grinder
+98	Franco's Ristorante
+99	Rio Latin Tapas
+100	Gene & Georgetti
+101	Raj Darbar
+102	Carmen's
+103	Pane Caldo
+104	Suntory
+105	AMBRIA
+106	Russell's Barbecue
+107	Saloon
+108	Carlos & Carlos
+109	Mi Casa Su Casa
+110	Green Door Tavern
+111	Taboo Bistro 'N' Bar
+112	Fondue Stube
+113	Mozart Cafe
+114	Manny's Coffee Shop & Deli
+115	Cafe Borgia
+116	Nick's Fishmarket
+117	Lou Malnati's Pizzeria
+118	Julie Mai's Le Bistro
+119	Jane's
+120	Lawry's the Prime Rib
+121	Relish
+122	Lulu's
+123	Wayside Manor
+124	Shree
+125	La Strada
+126	Gypsy
+127	Amourette
+128	Benihana of Tokyo
+129	Hong Min
+130	Kinzie Street Chophouse
+131	Cross-Rhodes
+132	City Tavern
+133	Ed Debevic's Short Orders Deluxe
+134	Leona's Neighborhood Place
+135	Las Fuentes
+136	Vernon Park Tap
+137	Greek Islands
+138	Cote Rotie
+139	King Wah
+140	Rosded
+141	Hatsuhana
+142	Oceanique
+143	Moon Palace
+144	Le Bouchon
+145	Harry G's Crab & Steak House
+146	Southgate Cafe
+147	Ristorante Agostino
+148	MAGGIANO'S LITTLE ITALY
+149	Fresh Starts
+150	Kuni's
+151	Trattoria Dinotto
+152	Cafe du Midi
+153	Eli's the Place for Steaks
+154	Natraj
+155	Il Fornaio
+156	St. Germain Bakery-Cafe
+157	Siam Square
+158	Russian Palace
+159	Klay Oven
+160	La Paella
+161	Honda
+162	Shaw's Crab House & Blue Crab
+163	Catch 35
+164	GIBSONS BAR & STEAKHOUSE
+165	Le Loup Cafe
+166	Barry's Ribs & More
+167	Grand and Wells Tap
+168	TALLGRASS
+169	Primavera
+170	Trattoria Ginotto
+171	Bruna's Ristorante
+172	Costa d'Oro
+173	Tien Tsin
+174	Bistro Europa
+175	Sage's
+176	Mei Shung
+177	Ceiling Zero
+178	Lino's
+179	Nookies Tree
+180	El Dinamico Dallas
+181	Staropolska
+182	Grecian Taverna
+183	Jack Gibbons Garden
+184	Adagio
+185	Thai 55th
+186	Rosebud
+187	MONTPARNASSE
+188	Tavern in the Town
+189	Cafe Spiaggia
+190	La Bella Pasteria
+191	Hubbard Street Grill
+192	Walker Bros.
+193	Mykonos
+194	Estaloca
+195	N.N. Smokehouse
+196	Tra Via
+197	Michael Jordan's
+198	Mill Race Inn
+199	LE VICHYSSOIS
+200	Cy's Crab House
+201	Red Lion Pub
+202	Mama Desta's Red Sea
+203	Zinfandel
+204	Breakfast Club
+205	Thai Room
+206	Golden Ox
+207	El Presidente
+208	Lloyd's
+209	Gilardi's
+210	Szechwan Palace
+211	La Cantina
+212	Daniel J's
+213	Sabatino's
+214	Tehran
+215	Lutnia
+216	Stevie B's
+217	Tommy Nevin's Pub
+218	Zaven's
+219	Dick's Last Resort
+220	Twin Anchors
+221	Leona's on Taylor
+222	Parthenon
+223	Avanzare
+224	Duke of Perth
+225	Cafe La Cave
+226	Froggy's
+227	Hard Rock Cafe
+228	Nana's
+229	Tuscany
+230	Scoozi!
+231	Itto Sushi
+232	Tucci Milan
+233	Gusto Italiano
+234	Bertucci's Pizzeria
+235	Song Huong
+236	Vita
+237	Gandhi Indian
+238	Salaam
+239	Spavone's Seven Hills
+240	Mondelli's on Grand
+241	La Perla del Mediterraneo
+242	LE TITI DE PARIS
+243	Pappagallo's
+244	Spasso
+245	Joe-n-Giuseppe
+246	GABRIEL'S
+247	Tecalitan
+248	Oodles of Noodles
+249	Tutto Bene
+250	Cape Cod Room
+251	Nhu Hoa Cafe
+252	Father and Son Pizza
+253	Geja's Cafe
+254	Gavroche
+255	Mandar-Inn
+256	Crown Room
+257	Garardo's Cafe
+258	Sayat Nova
+259	Piatti
+260	SPIAGGIA
+261	Old Jerusalem
+262	Cafe Luciano
+263	Panda Panda
+264	Helmand
+265	J.P.'s Eating Place
+266	Via Veneto
+267	Cassis
+268	Ibis
+269	Thai Star Cafe
+270	Yasuke
+271	Leona's
+272	La Bocca della Verita
+273	Bertucci's
+274	Sanko
+275	Penny's Noodle Shop
+276	Lanna Thai
+277	Cielo
+278	Charlie's Ale House
+279	Barney's Market Club and Steak
+280	Dao
+281	Barn of Barrington
+282	KIKI'S BISTRO
+283	La Boheme
+284	R.J. Grunts
+285	Mrs. Park's Tavern
+286	Lucky Platter
+287	Sai Cafe
+288	Blind Faith Cafe
+289	Vivo
+290	New Japan
+291	La Canasta
+292	Thai Little Home Cafe
+293	Lutz Continental Cafe & Pastry
+294	La Sorella di Francesca
+295	Club Lago
+296	Red Tomato
+297	Eddie's Collage
+298	Oak Terrace
+299	CAFE BA-BA-REEBA!
+300	Matsuya
+301	La Margarita
+302	Salvatore's
+303	Kerouac Jack's
+304	Belden Deli
+305	Galans
+306	Del Rio
+307	CARLOS'
+308	Berghoff
+309	Giannotti Steak House
+310	El Tinajon
+311	Emperor's Choice
+312	Daruma
+313	Buffalo Ranch
+314	Topo Gigio
+315	Bohemian Crystal
+316	Zasu
+317	TOPOLOBAMPO
+318	Nookies
+319	Winklestein's
+320	Rose Angelis
+321	Bridges
+322	Momotaro
+323	That Steak Joynt
+324	Su Casa
+325	Cafe Maxx
+326	My Place For ?
+327	Ristorante Chianti
+328	Beirut
+329	Trattoria Gianni
+330	Julio's Latin Cafe
+331	Colorado Steakhouse
+332	Harry Caray's
+333	Athenian Room
+334	Leona's Original Pizza
+335	Don's Fishmarket & Tavern
+336	Big Bowl Cafe
+337	Da Luigino
+338	Viceroy of India
+339	Brett's
+340	Bacchus Nibbles
+341	Las Palmas
+342	Basta Pasta
+343	Ina's Kitchen
+344	Butcher Shop Steakhouse
+345	Genesee Depot
+346	Ron of Japan
+347	Park Avenue Cafe
+348	Zealous
+349	Carmine's Clamhouse
+350	Chano Chano
+351	Bagel
+352	Szechwan North
+353	EMILIO'S TAPAS BAR & RESTAURANT
+354	California Pizza Kitchen
+355	Jim & Johnny's
+356	Cafe Pyrenees
+357	Fond de la Tour
+358	Furama
+359	Dave's Italian Kitchen
+360	Cafe Gordon
+361	94th Aero Squadron
+362	Cucina Bella
+363	Aegean Isles
+364	Sole Mio
+365	Healthy Food
+366	Bite
+367	Brasserie T
+368	Emilio's Granada
+369	foodlife
+370	CHARLIE TROTTER'S
+371	Bossa Nova
+372	Bistro in Highwood
+373	Nick & Tony's
+374	Geppetto's
+375	Erwin
+376	Mrs. Levy's Delicatessen
+377	Cottage
+378	Stanley's Kitchen & Tap
+379	Yvette
+380	Gino's East
+381	Gin Go Gae
+382	Little Szechwan
+383	VA PENSIERO
+384	Danilo's
+385	Thai Town
+386	Dragon Inn North
+387	Anna Maria Pasteria
+388	Slice of Life
+389	Paladino's
+390	Santa Fe Tapas
+391	Glass Dome Hickory Pit
+392	Lucci's Pasta Facce Trattoria
+393	Santorini
+394	Retreat
+395	Dish
+396	Miller's Pub
+397	Zofia's
+398	Nancy's Original Stuffed Pizza
+399	Courtyards of Plaka
+400	FRONTERA GRILL
+401	Thai Borrahn
+402	Centro
+403	Next Door
+404	Hau Giang
+405	Printer's Row
+406	Parrinello
+407	Wishbone
+408	Zum Deutschen Eck
+409	Vinyl
+410	King Crab Tavern & Seafood
+411	La Majada
+412	Betise
+413	Outback Steakhouse
+414	Wild Onion
+415	Club Creole
+416	Capriccio's
+417	Charlie Chiang
+418	PUMP ROOM
+419	Pazzo's Pizza & Pasta Kitchen
+420	LaLO
+421	Brother Jimmy's BBQ
+422	Brasserie Bellevue
+423	Boston Blackie's
+424	Del Debbio's
+425	Austin Koo's Mandarin
+426	LE FRANCAIS
+427	Sixty-Five
+428	Jackie's
+429	Greenery
+430	Dellwood Pickle
+431	Merlot Joe's
+432	Roditys
+433	Stella d'Italia
+434	Tuttaposto
+435	Hi Howe
+436	La Fontanella
+437	Retro Bistro
+438	Heartland Cafe
+439	Tony Spavone's
+440	Basilico
+441	Tania's
+442	Mekong
+443	Best Hunan
+444	Myron & Phil's
+445	Campeche
+446	Boulevard
+447	SEASONS
+448	Czech Plaza
+449	Twisted Lizard
+450	Bravissimo
+451	Angelina Ristorante
+452	Dancing Noodles Cafe
+453	Club Lucky
+454	Tapas Barcelona
+455	Poolgogi House
+456	Cafe Phoenicia
+457	Stefani's
+458	Erie Cafe
+459	Little Europe
+460	Papagus Greek Taverna
+461	Stetson's Chop House
+462	Korean Restaurant
+463	VINCI
+464	Giordano's
+465	Celebrity Cafe
+466	Carlucci
+467	Don Juan's
+468	August Moon
+469	Ruth's Chris Steak House
+470	Clara's Pasta di Casa
+471	Tokyo Marina
+472	La Gondola
+473	Singha
+474	La Creperie
+475	Bukhara
+476	Soul Kitchen
+477	Emilio's Meson Sabika
+478	Hackney's
+479	Gennaro's
+480	Home Bakery
+481	Bando
+482	Aurelio's
+483	Robinson's No. 1 Ribs
+484	Trattoria Roma Terza
+485	ENTRE NOUS
+486	Hat Dance
+487	Cannella's
+488	Pegasus
+489	Nookies Too
+490	El Nandu
+491	Noodle Noodle
+492	Pomodori
+493	My pi Pizzeria
+494	Lupita's
+495	Benkay
+496	Heaven On Seven
+497	Medici
+498	O Fame
+499	Piatti Verde
+500	Gypsy's Cove
+501	Chez Paul
+502	Kampai
+503	UN GRAND CAFE
+504	Fernando's
+505	Oak Tree
+506	Pomodoro
+507	Zarrosta Grill
+508	Chicago Diner
+509	Szechwan Restaurant
+510	Pierogi Inn
+511	Orbit
+512	Southport City Saloon
+513	Tucchetti
+514	Fountain Blue
+515	Cucina Roma
+516	Blue Mesa
+517	Original Pancake House
+518	Fireplace Inn
+519	Seven Treasures
+520	Hashalom
+521	Leo's Lunchroom
+522	Chez Delphonse
+523	Lindo Mexico
+524	Palm
+525	Delaney and Murphy
+526	Gino's Steak House
+527	Jerome's
+528	Da Nicola Ristorante
+529	Nuevo Leon
+530	Abbis Abeba
+531	Daniello's
+532	Queen of the Sea
+533	Rinconcito Sudamericano
+534	Convito Italiano
+535	Filippo's
+536	Yvette North
+537	Caribbean Delight
+538	Kamehachi
+539	Trattoria Pizzeria Roma
+540	Machu Picchu
+541	Gold Coast Dogs
+542	Roxy Cafe
+543	Weber Grill Restaurant
+544	Cuisine:s
+545	Como Inn
+546	Bub City Crabshack & BBQ
+547	Dragon Inn
+548	Monastero's
+549	Ambassador Caffe
+550	Mathon's
+551	La Locanda
+552	It's Greek to Me
+553	Old Carolina Crab House
+554	Buckingham's
+555	Gale Street Inn
+556	Grappa
+557	Poul Zakopane Harnas
+558	Soul Queen
+559	Cousin's
+560	Taylor Brewing Company
+561	Trader Vic's
+562	Home Run Inn
+563	Winnetka Grill
+564	TRIO
+565	Giovanni's
+566	French Kitchen
+567	Pasteur
+568	Sweet Spice Cafe & Bar
+569	Army & Lou's
+570	Gaylord India
+571	Windows of Cuisine
+572	White Knights
+573	Ranalli's
+574	Taylor Street Bistro
+575	La Risotteria Nord
+576	Vivere
+577	Whitehall Place
+578	Vinny's
+579	Three Happiness
+580	Davis Street Fishmarket
+581	Carson's Ribs
+582	Lac Vien
+583	Busy Bee
+584	Pandl's in Bayside
+585	Espial
+586	Bice
+587	Alex's Washington Gardens
+588	P.S. Bangkok
+589	Lone Star Steakhouse
+590	Claim Company
+591	Cafe Iberico
+592	302 West
+593	Szechwan House
+594	Ishtar Inn
+595	Rosebud on Rush
+596	Kyoto Japanese Restaurant
+597	Cafe 36
+598	Edith's Bar-B-Q
+599	Poor Phil's Oyster Bar
+600	Tutto Italiano
+601	Eccentric
+602	Marc
+603	Mare
+604	Mia Torre
+605	Johnny D's
+606	Courtright's
+607	Ostioneria Playa Azul
+608	Schulien's
+609	Dieterle's
+610	BISTRO BANLIEUE
+611	Cafe Absinthe
+612	MIA FRANCESCA
+613	Frida's
+614	T'ang Dynasty
+615	Trattoria No. 10
+616	Corner Bakery
+617	Ravinia Bistro Maison Barussea
+618	Un DiAmo
+619	Uncle Tannous
+620	GORDON
+621	Oo-La-La!
+622	Genghis Khan
+623	Siam Cafe
+624	Abril
+625	Distant Mirror Cafe
+626	Rupert's for Steaks
+627	YOSHI'S CAFE
+628	Il Toscanaccio
+629	Bar Louie
+630	El Nuevo Mexicano
+631	Arco de Cuchilleros
+632	Northside Cafe
+633	Udupi Palace
+634	Osteria del Vecchio Ristorante
+635	Maple Tree Inn
+636	Coco Pazzo
+637	D'Agostino's Cafe & Bar
+638	Bangkok
+639	Madison's
+640	EVEREST
+641	Babaluci
+642	Leona's Daughters
+643	BOB CHINN'S CRAB HOUSE
+644	Marche
+645	Akai Hana
+646	Cafe Bernard
+647	Szechwan East
+648	Formosa
+649	Vidalia on Park
+650	Blackhawk Lodge
+651	Rada's Inn
+652	Ann Sather
+653	Surf and Turf
+654	Reza's
+655	Rudi's Wine Bar & Cafe
+656	Blue Agave
+657	Cornelia's
+658	Francesco's Hole in the Wall
+659	Waterford
+660	Farrago
+661	D & J Bistro
+662	Dee's
+663	My Favorite Inn
+664	Standard India
+665	Philander's
+666	Tulpe
+667	Cafe Angelo
+668	Pine Yard
+669	Biggs
+670	Ethiopian Village
+671	Dixie Que
+672	Star Top Cafe
+673	Febo
+674	Buster Crab Seafood
+675	La Luce
+1000	QUIT

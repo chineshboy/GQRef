@@ -1,0 +1,33 @@
+graph g {
+	/*rankdir = BT*/
+	size="8,5"
+	fontname = "Arial"
+	margin=0.0002
+
+	edge [
+		fontname = "Arial"
+	]
+
+	node [
+		shape = rectangle, 
+		fontname = "Arial"
+		fontsize = 15,
+		width = 1.15,
+		height = 0.58,
+		style = "rounded,filled",
+		fillcolor = white
+	];
+	/* Node definition */
+	"0" [label="Scoozi!"]
+"1" [label="Spasso"]
+"2" [label="GABRIEL'S"]
+"3" [label="TRIO"]
+"4" [label="CARLOS'"]
+"5" [label="Tucci Benucch"]
+	/* Edge definition */
+	"0" -- "1" [label="nicer"]
+"1" -- "2" [label="nicer"]
+"2" -- "3" [label="nicer"]
+"3" -- "4" [label="browse"]
+"0" -- "5" [label="nicer"]
+}
